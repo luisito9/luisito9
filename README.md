@@ -7,9 +7,9 @@ Las tecnologías aprendida y que manejo son : JavaScript, React.js, Node.js, Seq
 Me considero una persona con acentuado nivel de responsabilidad, análisis de problemas y resolutivo, que daría un gran aporte con la utilización de la herramientas anteriormente nombradas en la ejecución de proyectos Web. 
 **Nivel de inglés: Intermedio.**
 
-Skills: JavaScript | React JS | Redux | Node JS | Express | Sequelize | Html | Css.
+**Skills:** JavaScript | React JS | Redux | Node JS | Express | Sequelize | Html | Css.
 
-- 🔭 I’m currently working on this page. 
+- 🔭 Regularmente estoy trabajando en esta página. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/luisito9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/luis-vi%C3%B1a-03b7137a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](luis23via@gmail.com)  
