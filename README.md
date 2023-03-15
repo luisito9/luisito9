@@ -1,4 +1,4 @@
-### Hi there 👋, Full Stack Web Developer | JavaScript | React JS | Redux | Node JS | Express | Sequelize | Html | Css.
+###👋 Full Stack Web Developer | JavaScript | React JS | Redux | Node JS | Express | Sequelize | Html | Css.
 #### Valencia Estado Carabobo, Venezuela. Gmail: luis23via@gmail.com, [Linkedln](https://www.linkedin.com/in/luis-vi%C3%B1a-03b7137a/), [Github](https://github.com/luisito9) 
 ![Valencia Estado Carabobo, Venezuela. Gmail: luis23via@gmail.com, [Linkedln](https://www.linkedin.com/in/luis-vi%C3%B1a-03b7137a/), [Github](https://github.com/luisito9) ](https://neurona-ba.com/wp-content/uploads/2021/07/HenryLogo.jpg)
 
